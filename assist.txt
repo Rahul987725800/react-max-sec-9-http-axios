@@ -1,1 +1,3 @@
-npm i --save axios
+what if we want to have base url for not all requests and responses but
+ for some specific req and res.
+ 
